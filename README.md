@@ -1,4 +1,8 @@
+## ASP.NET Core
+Free. Cross-platform. Open source.
+A framework for building web apps and services with .NET and C#.
 
+[ASP.net Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
 ### Tutorial: Get started with ASP.NET Core
 [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-9.0)
@@ -16,3 +20,9 @@
         Follow a tutorial for the app type you want to develop or maintain.
 
 [Recommended learning path](https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-9.0#recommended-learning-path)
+
+
+
+### .Net Videos
+
+[.NET Videos](https://dotnet.microsoft.com/en-us/learn/videos)
