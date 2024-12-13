@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\helloworld\\helloworld\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\helloworld\\helloworld\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56440374-3CD1-4C53-A2DB-09D90139C99C}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HelloWorld\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "HelloWorld\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T00:59:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelloWorld\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HelloWorld\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T00:57:48.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:59:22.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
