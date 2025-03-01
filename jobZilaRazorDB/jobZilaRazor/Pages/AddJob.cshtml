@@ -1,0 +1,49 @@
+﻿@page
+@model jobZilaRazor.Pages.AddJobModel
+@{
+	ViewData["title"] = "Add new job";
+}
+
+
+<div>
+	<h3>@ViewData["Title"]</h3>
+	<div class="form-div">
+
+		<form id="contact-form" method="post">
+			<div>
+				<label class="form-label" for="title">Title</label>
+				<input class="form-control" type="text" name="Title" id="title" placeholder="Job Title" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="company">Company</label>
+				<input class="form-control" type="text" name="Company" id="company" placeholder="Company" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="city">City</label>
+				<input class="form-control" type="text" name="City" id="city" placeholder="City" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="description">Description</label>
+				<input class="form-control" type="text" name="Description" id="description" placeholder="Job Description" />
+
+
+
+			</div>
+
+			<button class="btn btn-success" type="submit">Add Jobs</button>
+
+
+		</form>
+
+	</div>
+</div>
+

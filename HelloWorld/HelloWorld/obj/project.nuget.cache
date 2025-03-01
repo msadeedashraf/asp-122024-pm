@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0pe+PP6bWg=",
+  "dgSpecHash": "tqQdydXd8Qg=",
   "success": true,
   "projectFilePath": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sadeedashraf\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\sadeedashraf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\sadeedashraf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\sadeedashraf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

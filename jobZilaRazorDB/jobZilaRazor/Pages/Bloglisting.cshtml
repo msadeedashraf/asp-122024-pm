@@ -1,0 +1,40 @@
+﻿@page
+@model jobZilaRazor.Pages.BloglistingModel
+@{
+}
+
+
+<main>
+
+    <section id="joblist-section">
+        <h2>My Blogs</h2>
+        <div class="joblisting-div">
+
+
+            @foreach (var _blog in Model.Blog)
+            {
+                <div class="job-listing">
+                    <h3>@_blog.title</h3>
+                    <p>@_blog.content</p>
+                    <p>@_blog.user</p>
+                    <p>
+                        @_blog.creationdate
+                    </p>
+                    <p class="learn-more"><a href="/blog/@_blog.id">Learn More</a></p>
+                </div>
+
+
+            }
+        </div>
+
+        <div>
+            <a href="/Addblog" class="btn btn-success">Add Blog</a>
+        </div>
+
+
+
+    </section>
+
+
+
+</main>

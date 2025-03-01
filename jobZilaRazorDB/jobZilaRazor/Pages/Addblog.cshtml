@@ -1,0 +1,48 @@
+﻿@page
+@model jobZilaRazor.Pages.AddblogModel
+@{
+	ViewData["title"] = "Add new blog";
+}
+
+
+<div>
+	<h3>@ViewData["Title"]</h3>
+	<div class="form-div">
+
+		<form id="contact-form" method="post">
+			<div>
+				<label class="form-label" for="title">Title</label>
+				<input class="form-control" type="text" name="Title" id="title" placeholder="Blog Title" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="content">Content</label>
+				<input class="form-control" type="text" name="Content" id="content" placeholder="Blog content" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="user">User</label>
+				<input class="form-control" type="text" name="User" id="user" placeholder="Sadeed" />
+
+
+
+			</div>
+			<div>
+				<label class="form-label" for="creationdate">Creation Date</label>
+				<input class="form-control" type="text" name="Creationdate" id="creationdate" placeholder="2025/01/16" />
+
+
+
+			</div>
+
+			<button class="btn btn-success" type="submit">Add Blog</button>
+
+
+		</form>
+
+	</div>
+</div>

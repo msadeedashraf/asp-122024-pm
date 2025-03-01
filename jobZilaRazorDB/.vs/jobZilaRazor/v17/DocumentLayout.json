@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\jobZilaRazorDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D4FF0-A9EB-476C-9D99-57B3B256D619}|jobZilaRazor\\jobZilaRazor.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\jobzilarazordb\\jobzilarazor\\pages\\bloglisting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D32D4FF0-A9EB-476C-9D99-57B3B256D619}|jobZilaRazor\\jobZilaRazor.csproj|solutionrelative:jobzilarazor\\pages\\bloglisting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32D4FF0-A9EB-476C-9D99-57B3B256D619}|jobZilaRazor\\jobZilaRazor.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\jobzilarazordb\\jobzilarazor\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32D4FF0-A9EB-476C-9D99-57B3B256D619}|jobZilaRazor\\jobZilaRazor.csproj|solutionrelative:jobzilarazor\\pages\\addblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Addblog.cshtml.cs",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\jobZilaRazorDB\\jobZilaRazor\\Pages\\Addblog.cshtml.cs",
+              "RelativeDocumentMoniker": "jobZilaRazor\\Pages\\Addblog.cshtml.cs",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\jobZilaRazorDB\\jobZilaRazor\\Pages\\Addblog.cshtml.cs",
+              "RelativeToolTip": "jobZilaRazor\\Pages\\Addblog.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:20:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bloglisting.cshtml",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\jobZilaRazorDB\\jobZilaRazor\\Pages\\Bloglisting.cshtml",
+              "RelativeDocumentMoniker": "jobZilaRazor\\Pages\\Bloglisting.cshtml",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\jobZilaRazorDB\\jobZilaRazor\\Pages\\Bloglisting.cshtml",
+              "RelativeToolTip": "jobZilaRazor\\Pages\\Bloglisting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T01:20:31.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

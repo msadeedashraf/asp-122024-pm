@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\blazoruicontrols\\blazoruicontrols\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|solutionrelative:blazoruicontrols\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\blazoruicontrols\\blazoruicontrols\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|solutionrelative:blazoruicontrols\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|d:\\cbc\\seproject\\pm\\asp\\asp-122024-pm\\blazoruicontrols\\blazoruicontrols\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38848163-0D45-4AA2-95C6-30C7318F35E7}|blazorUIcontrols\\blazorUIcontrols.csproj|solutionrelative:blazoruicontrols\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Movie.cs",
+              "RelativeDocumentMoniker": "blazorUIcontrols\\Movie.cs",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Movie.cs",
+              "RelativeToolTip": "blazorUIcontrols\\Movie.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA6wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:32:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeDocumentMoniker": "blazorUIcontrols\\Components\\Pages\\MoviePages\\Index.razor",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeToolTip": "blazorUIcontrols\\Components\\Pages\\MoviePages\\Index.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T01:54:31.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeDocumentMoniker": "blazorUIcontrols\\Components\\Pages\\MoviePages\\Create.razor",
+              "ToolTip": "D:\\CBC\\SEProject\\PM\\asp\\asp-122024-pm\\blazorUIcontrols\\blazorUIcontrols\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeToolTip": "blazorUIcontrols\\Components\\Pages\\MoviePages\\Create.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T01:46:33.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
